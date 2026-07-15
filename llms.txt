@@ -1,0 +1,14 @@
+# Noam Tenne
+
+> Noam Tenne is a software engineer, founder, and angel investor. He is the co-founder and CEO of Sky Valley Ambient Computing (https://skyvalley.ac), which builds infrastructure for adaptive software; its first product is Differ (https://www.getdiffer.com). He was previously a founding engineer at JFrog (Artifactory), an early engineer at Codefresh, Healthy.io, and VanMoof, and co-founder and CTO of Skippr, which was backed by investors including Bessemer Venture Partners. He invests as an angel in deep tech and healthtech. He has also published open-source work as "Noam Y. Tenne" (github.com/noamt, Maven Central).
+
+## Pages
+
+- [About Noam Tenne](https://noamtenne.com/): biography, career history, FAQ, and contact information.
+
+## Profiles
+
+- GitHub: https://github.com/noamt
+- X: https://x.com/NoamTenne
+- LinkedIn: https://www.linkedin.com/in/noam-tenne
+- Talk: https://www.youtube.com/watch?v=6rfbeyShX2U
