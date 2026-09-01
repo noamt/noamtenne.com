@@ -5,10 +5,26 @@
 ## Pages
 
 - [About Noam Tenne](https://noamtenne.com/): biography, career history, FAQ, and contact information.
+- [Writing](https://noamtenne.com/writing/): index of essays by Noam Tenne on adaptive software, ambient computing, AI-native development, and developer infrastructure.
+
+## Writing
+
+Noam Tenne writes at Adaptive Software (https://adaptivesoftware.substack.com/), a publication he writes with Iris ten Teije on systems that write, heal, and personalize themselves, and previously at his personal newsletter Perihelion (https://noamtenne.substack.com/).
+
+- [Your A/B Tests Are Limiting What Your Software Can Learn](https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your) (2026-08-19)
+- [The Computer For The 21st Century, Revisited](https://adaptivesoftware.substack.com/p/the-computer-for-the-21st-century) (2026-07-14)
+- [Software is a Meme, Not a Gene](https://noamtenne.substack.com/p/software-is-a-meme-not-a-gene) (2026-02-18)
+- [From Requests to Promises](https://noamtenne.substack.com/p/from-requests-to-promises) (2026-02-05)
+- [The End of Merge Conflicts](https://noamtenne.substack.com/p/the-end-of-merge-conflicts) (2026-02-03)
+- [You Can't Command a Remote Agent](https://noamtenne.substack.com/p/you-cant-command-a-remote-agent) (2026-01-29)
 
 ## Profiles
 
 - GitHub: https://github.com/noamt
 - X: https://x.com/NoamTenne
 - LinkedIn: https://www.linkedin.com/in/noam-tenne
+- Substack: https://substack.com/@noamtenne
+- Adaptive Software: https://adaptivesoftware.substack.com/
+- Perihelion: https://noamtenne.substack.com/
+- Medium: https://noamt.medium.com/
 - Talk: https://www.youtube.com/watch?v=6rfbeyShX2U
